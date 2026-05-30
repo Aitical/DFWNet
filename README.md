@@ -1,4 +1,3 @@
-# FCRNet
 
 > **Paper**: Dual Frequency Fusion Network for Low-Light Face Super-Resolution
 > 
